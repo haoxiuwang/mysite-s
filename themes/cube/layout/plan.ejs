@@ -1,0 +1,152 @@
+<style media="screen">
+
+
+article h3{
+  margin-top: 4rem;
+  margin-bottom: 5rem;
+  font-size: 2.2rem;
+}
+
+
+  article h3::before{
+    content:""
+  }
+
+  article p>img{width:100%}
+  .bg-switch{
+    background-color: #dc7257;
+  }
+  .carousel[class*="-big-controls"] .tns-controls button:active {
+    background: #dc7257;
+}
+.carousel[class*="-big-controls"] .tns-controls button:hover {
+    background: #dc7257;
+}
+
+.accordion-steps .accordion-button::before {
+
+  background: #555;
+}
+@media screen and (max-width: 769px) {
+  .carousel[class*="-big-controls"] .tns-controls button{
+    background: transparent
+  }
+
+  .carousel[class*="-big-controls"] .tns-controls button:active {
+    background: transparent
+  }
+  .carousel[class*="-big-controls"] .tns-controls button:hover {
+      background: transparent;
+  }
+}
+@media screen and (max-width: 400px){
+
+  .accordion-steps .accordion-button::before {
+    width:3rem;
+    height:3rem;
+  }
+
+    article .card-body{padding:2.5rem 0}
+
+    article .accordion-steps .accordion-button, article .accordion-steps .accordion-body{
+      padding-left:3.8rem;
+      padding-right:0rem;
+    }
+    .carousel .card span{
+      display:none;
+    }
+}
+
+body {--bs-primary: #d34f2d;}
+
+
+</style>
+
+
+
+<article>
+  <section class="bg-black overflow-hidden aos-init aos-animate" data-aos="fade-in">
+    <div class="d-flex flex-column py-15 min-vh-100 container foreground">
+      <div class="row justify-content-center my-auto pb-5">
+        <div class="col-lg-6 text-center mb-5">
+          <span class="badge bg-opaque-white text-white rounded-pill mb-2"><%- page.subtitle %></span>
+          <h1 class="display-2 fw-bold text-white"><%- page.title %></h1>
+        </div>
+
+      </div>
+
+    </div>
+    <figure class="background background-overlay skrollable skrollable-between" style="background-image: url(<%- page.cover %>); transform: translateY(0%);" data-top-top="transform: translateY(0%);" data-top-bottom="transform: translateY(10%);"></figure>
+  </section>
+
+    <section class="py-10 py-xl-15">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-10 col-xl-8">
+            <%- page.content %>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </article>
+  <%
+    var pages=site.pages.data.filter(function (item,index) {
+      return item.layout=="plan";
+    })
+
+    pages.sort(function (a,b) {
+      return parseInt(a.chapter)-parseInt(b.chapter);
+    })
+
+
+
+
+    var last=parseInt(page.chapter)-1;
+    last=last<0?4:last;
+    last=pages[last];
+    var next=parseInt(page.chapter)+1;
+    next=next>4?0:next;
+    next=pages[next];
+
+  %>
+  <section class="overflow-hidden">
+    <div class="container-full">
+      <div class="row g-0">
+        <div class="col-md-6">
+          <a href="<%- url_for(last.path) %>" class="card card-hover-reveal equal-lg-2-1 bg-black inverted">
+            <div class="card-wrap">
+              <div class="card-footer my-auto">
+                <div class="row justify-content-center align-items-center">
+                  <div class="col-auto"><i class="bi bi-arrow-left fs-3"></i></div>
+                  <div class="col col-xl-6">
+                    <span class="badge bg-opaque-white text-white rounded-pill mb-2"><%- last.subtitle %></span>
+
+                    <h3 class="card-title"><%- last.title %></h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </a>
+        </div>
+        <div class="col-md-6">
+          <a href="<%- url_for(next.path) %>" class="card card-hover-reveal equal-lg-2-1 bg-black inverted">
+            <div class="card-wrap">
+              <div class="card-footer my-auto text-end">
+                <div class="row justify-content-center align-items-center">
+                  <div class="col col-xl-6">
+                    <span class="badge bg-opaque-white text-white rounded-pill mb-2"><%- next.subtitle %></span>
+
+                    <h3 class="card-title"><%- next.title %></h3>
+                  </div>
+                  <div class="col-auto"><i class="bi bi-arrow-right fs-3"></i></div>
+                </div>
+              </div>
+            </div>
+
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
