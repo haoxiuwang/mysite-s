@@ -5,6 +5,7 @@ date: 2021-08-27 21:40:29
 cover: /assets/images/insta-4.jpg
 chapter: 3
 layout: plan
+en: false
 ---
 
 ***没有人员支出，没有办公费用，爱梦想，一家由数万精英组成的公司，将会在接近零成本的状态下迅速崛起。***

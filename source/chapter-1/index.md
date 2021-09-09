@@ -5,6 +5,7 @@ date: 2021-08-27 21:40:03
 cover: /assets/images/coworking-3.jpg
 chapter: 0
 layout: plan
+en: false
 ---
 
 **APlan，即Aomoxo Plan，中文译名《爱梦想方案》，是Aomoxo公司万亿美元市值方案。爱梦想或aomoxo,即《爱梦想方案》蓝图中一家以万亿美元市值为目标，由数万持股精英组成的新型互联网IT公司。**

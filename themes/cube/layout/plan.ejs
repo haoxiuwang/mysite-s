@@ -92,15 +92,12 @@ body {--bs-primary: #d34f2d;}
   </article>
   <%
     var pages=site.pages.data.filter(function (item,index) {
-      return item.layout=="plan";
+      return item.layout=="plan" && item.en == (path.indexOf("en/") != -1);
     })
 
     pages.sort(function (a,b) {
       return parseInt(a.chapter)-parseInt(b.chapter);
     })
-
-
-
 
     var last=parseInt(page.chapter)-1;
     last=last<0?4:last;

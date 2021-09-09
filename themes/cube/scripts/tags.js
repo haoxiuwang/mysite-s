@@ -256,7 +256,7 @@ hexo.extend.tag.register('mytitle',function (args) {
 
   <div class="row mt-5 mb-10 align-items-end aos-init aos-animate" data-aos="fade-up">
       <div class="col-lg-8">
-        <h3 class="fw-light"><span class="fw-bold">${args[0]}，</span>${args[1]}。</h3>
+        <h3 class="fw-light"><span class="fw-bold">${args[0]}，</span>${args[1]}</h3>
       </div>
     </div>
 
