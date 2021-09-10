@@ -17,38 +17,36 @@ Dear talent friends, have you ever thought about what it would be like to own on
 
 Let us take a one trillion dollar company for example:
 
-{% ul 'One thousandth of its shares is worth one billion U.S. dollars.' 'One ten thousandth of its shares is worth 100 million dollars.' 'One hundred thousandth of its share is worth 10 million dollars.' %}
+{% ul 'One-thousandth of its shares is worth $1 billion.' 'One-ten-thousandth of its shares is worth $100 millions.' 'One-hundred-thousandth of its share is worth $10 millions.' %}
 
-So, One thousandth, one ten thousandth, one hundred thousandth, all seemingly small numbers, but with a trillion-dollar market value, they are extremely valuable. ✨
+So, one-thousandth, one-ten-thousandth, one-hundred-thousandth, all seemingly small numbers, but under $1 trillion market value, they are extremely valuable. ✨
 
 Please boldly imagine what would happen if the entire trillion dollar market value were to be used to motivate talents?
 
-{% ul "0.1% of shares per person, there'd be 1,000 billionaires." "0.01% per person, there'd be 10,000 multi-millionaires worth 100 million dollars. " "0.001% per person, there'd be 100,000 multi-millionaires worth more than ten million U.S. dollars, which is more than 60 million yuan. " %}
+{% ul "0.1% of shares per person, there'd be 1,000 billionaires." "0.01% per person, there'd be 10,000 multi-millionaires worth $100 millions. " "0.001% per person, there'd be 100,000 multi-millionaires worth more than $10 millions, which is more than 60 million yuan. " %}
 
 {% myalert alert-danger "If so, how devoted and motivated the talents would be! 🏃 🏃 🏃" %}
 
-### Using the future "trillion dollar market value" to motivate talents and create a new trillion dollar company
+### Using the future "trillion dollar market value" as a incentive for the talents to create a new trillion dollar company.
 
-{% hr %}
+Since a small portion of shares can bring about such a huge amount of wealth, and since one trillion dollars in market value can make so many talents become billionaires@#, how about we use the wealth of a future "trillion dollar market value" to motivate talents to create a new trillion dollar company?
 
-Since a small portion of shares can bring about such a huge amount of wealth, and since trillions of dollars in market value can make so many talents become billionaires@#, can we use the future "trillion dollar market value wealth" to inspire talents and create a new trillion dollar company?
-
-To be precise, how about we send out those 0.1%, 0.01%, and 0.001% of shares, to attract and inspire tens of thousands of talents to start a business together, create a trillion dollar market cap company together, and share the trillion dollar market value together, and everybody becoming a billionaire@# together?
+To be precise, how about we put out those 0.1%, 0.01%, and 0.001% of the stock, to attract and inspire tens of thousands of talents to start a business together, create a trillion dollar market cap company together, and share the trillion dollar market value together, and all of us becoming a billionaire@# together?
 
 {% twopics https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan1-figure-2.jpg https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan1-figure-1.jpg %}
 
-This is the logic of the Aomoxo Plan, Which is also the company's trillion-dollar market cap plan:
+This is the logic of the Aomoxo Plan, which is also the company's "Trillion Dollar Market Cap Plan":
 
-{% mylist 'Use the most shares ever for talent incentive' 'Use 90% of shares to recruit 37200 talents from all over the world, that they will become the biggest beneficiaries of the trillion-dollar market value in the future. ' 'Create the most billionaire@# ever' 'The amount of shares each talent holds must be able to ensure that he or she becomes a billionaire@# when the market value reaches one trillion dollars.' 'Let the talents become the biggest driving force of the trillion-dollar market value' "Aomoxo's goal of one trillion-dollar market cap is to be achieved by tens of thousands of stockholders from all over the world, who are the most enthusiastic and motivated, and also bravely embrace the dreams of billionaires@#" %}
+{% mylist 'Use the most shares ever for talent incentive' "90% of shares will be used to recruit 37200 talents from all over the world, making them become the biggest beneficiaries of the future trillion dollar market value. " 'Create the most billionaire@# ever' 'The amount of shares each talent holds must be able to ensure that he or she becomes a billionaire@# when the market value reaches one trillion dollars.' 'Let the talents become the biggest driving force behind the trillion dollar market value' "Aomoxo's goal of $1 trillion market cap is to be achieved by tens of thousands of stockholders from all over the world, who are the most enthusiastic and motivated, bravely enbracing their dreams of becoming billionairess@#" %}
 
-As for how the 90% of shares will be distributed among 37,200 talents and how we'd make sure that every talents has the potential of billionaires@#, the second part of the Aomoxo Plan, The Talent Shareholding Plan will give out specific implementation details.
+As for how the 90% of shares will be distributed among 37,200 talents and how we'd make sure that every talents has the potential of billionaires@#, the second part of Aomoxo Plan, the Talent Shareholding Plan will give out specific implementation details.
 
-What we need to continue to emphasize here, is that the true value of the Aomoxo Plan lies in the creation of a new mechanism that uses shares to link closely together Aomoxo's trillion dollar market cap, and the individual billionaire@# dreams of 10,000 talents,  turning the company's goals into the goals of tens of thousands of talented individuals. When the talents start to fight for their own dreams of billions of wealth, they'd also be most certainly working hard to create the trillion-dollar market value for the company. From another perspective, the day when Aomoxo reaches one trillion dollars in market capitalization, it must also be the day that 37,200 talents become famous and rich.
+What we need to continue to emphasize here, is that the true value of the Aomoxo Plan lies in the creation of a new mechanism that uses shares as incentive for talents to achieve the $1 trillion market cap goal, linking closely together Aomoxo's trillion dollar market cap, and the personal billionaire@# dreams of our talents, turning the company's goals into the goals of tens of thousands of talented individuals. When the talents start to fight for their own dreams of billions of wealth, they'd also be most certainly working hard to create the trillion dollar market value for the company. In other words, the day when Aomoxo reaches $1 trillion  in market capitalization, it will also certainly be the day that all 37,200 talents become famous and rich.
 
-Although the great successes of Apple, Microsoft, Amazon, and Google, are very worthy of the excitement and pride of our peers in the IT field, but it's such a pity that the talents who created the trillion-dollar market value miracle, could not share the wealth of the trillion-dollar market values.
+Although the great successes of Apple, Microsoft, Amazon, and Google, are very worthy of excitement and pride from our peers in the IT field, but it's such a pity that the talents who created the trillion dollar market value miracle, aren't able to share the wealth of the trillion dollar market value.
 
-{% ul 'This is morally unfair, such a trillion dollar market value is far from wonderful. ' 'The passion and creativity of talents have not been fully tapped, and there is still a lot of room for incentives. '%}
+{% ul 'This is morally unfair. Such a trillion dollar market value is far from wonderful. ' "The passion and creativity of talents have not yet been fully tapped, and there's still a lot of room for incentives." %}
 
-Any miracle is created by talents. Any great cause or business should start from respecting talents and treating them well! The Aomoxo Plan gives tens of thousands of talents the legal right to share the future trillion-dollar market value, and making the trillion-dollar market value also their own victories, not just a few people getting super rich, this is the essence and foundation of creating miracles.
+All miracles are created by talents. Any great cause or business should start from respecting talents and treating them well! The Aomoxo Plan gives tens of thousands of talents the legal right to share the future trillion dollar market value, making it their own victories, that it won't be just few people getting super rich. This is the essence and foundation of creating miracles.
 
-{% myalert 'alert-danger' "It is foreseeable that a company like Aomoxo, supported by tens of thousands of stock-holding elites, will be more outstanding and better than Apple, Microsoft, Amazon, and Google." %}
+{% myalert 'alert-danger' "It is foreseeable that a company like Aomoxo, supported by tens of thousands of stock-holding elites, will be better and more outstanding than Apple, Microsoft, Amazon, and Google." %}
