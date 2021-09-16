@@ -20,43 +20,43 @@
 
   <!-- Main CSS -->
   <link rel="stylesheet" href="/assets/css/index.bundle.css">
-  <style>.nav-minimal .nav-link:hover {
+  <style>
+    .nav-minimal .nav-link:hover {
         color: #dc7257 !important;
-      }
-      .text-primary-hover:hover {
-    color: #dc7257 !important;
-}
-a {
-    color: #dc7257;
-    text-decoration: none;
-}
-a:hover {
-    color: #dc7257;
-}
+    }
+    .text-primary-hover:hover {
+        color: #dc7257 !important;
+    }
+    a {
+      color: #dc7257;
+      text-decoration: none;
+    }
+    a:hover {
+        color: #dc7257;
+    }
 
-.text-primary{
-      color: #d34f2d !important;
-}
-      </style>
+    .text-primary{
+          color: #d34f2d !important;
+    }
+  </style>
   <!-- Title -->
   <title>Aomoxo Plan</title></head>
-
+<%
+    var en = path.indexOf("en/");
+%>
 <body class="<%- page.title=="index"?"bg-black":page.title=="404"?"bg-red":"" %> headroom headroom--top headroom--not-bottom" data-aos-easing="ease" data-aos-duration="800" data-aos-delay="0">
 
 
   <!-- navbar -->
   <nav id="mainNav" class="navbar navbar-expand-lg navbar-sticky navbar-dark">
     <div class="container">
-      <a href="/index.html" class="navbar-brand">
-<span style="color:#dc7257;font-size:39px;font-weight:600">A</span>
+      <a href="/<%- (en == 0) ? 'en/' : '' %>index.html" class="navbar-brand">
+        <span style="color:#dc7257;font-size:39px;font-weight:600">A</span>
         PLAN</a>
 
         <ul class="navbar-nav navbar-nav-secondary order-lg-3">
           <li class="nav-item">
-            <%
-              var en = path.indexOf("en/");
-              if(en == 0){
-            %>
+            <%if(en == 0){%>
             <a class="nav-link" href="/<%- path.substr(en+3) %>">
               中文
             </a>
@@ -80,29 +80,67 @@ a:hover {
   </nav>
   <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNav" aria-labelledby="offcanvasNavLabel" aria-modal="true" role="dialog">
       <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="offcanvasNavLabel">方案目录</h5>
+        <h5 class="offcanvas-title" id="offcanvasNavLabel">
+          <%if(en == 0){%>
+            Content of Aomoxo Plan
+          <% } else {%>
+            方案目录
+          <% } %>
+        </h5>
         <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">
         <ul class="nav nav-minimal" id="toc-nav">
           <li class="nav-item">
-            <a class="nav-link fs-4" href="/chapter-1" >1. 前言</a>
+            <a class="nav-link fs-4" href="/<%- (en == 0) ? 'en/' : '' %>chapter-1" >
+              1.
+              <%if(en == 0){%>
+                Foreword
+              <% } else {%>
+                前言
+              <% } %>
+            </a>
 
           </li>
           <li class="nav-item">
-            <a class="nav-link fs-4" href="/chapter-2" >2. 精英持股计划</a>
+            <a class="nav-link fs-4" href="/<%- (en == 0) ? 'en/' : '' %>chapter-2" >
+              2.
+              <%if(en == 0){%>
+                Talent Shareholding Plan
+              <% } else {%>
+                精英持股计划
+              <% } %>
+            </a>
 
           </li>
           <li class="nav-item">
-            <a class="nav-link fs-4" href="/chapter-3" >3. 全新公司架构</a>
+            <a class="nav-link fs-4" href="/<%- (en == 0) ? 'en/' : '' %>chapter-3" >3.
+              <%if(en == 0){%>
+                A Brand New Company Structure
+              <% } else {%>
+                全新公司架构
+              <% } %>
+            </a>
 
           </li>
           <li class="nav-item">
-            <a class="nav-link fs-4" href="/chapter-4" >4. 重写游戏规则</a>
+            <a class="nav-link fs-4" href="/<%- (en == 0) ? 'en/' : '' %>chapter-4" >4.
+              <%if(en == 0){%>
+                Changing the Rules
+              <% } else {%>
+                重写游戏规则
+              <% } %>
+            </a>
 
           </li>
           <li class="nav-item">
-            <a class="nav-link fs-4" href="/chapter-5" >5. 我们的使命</a>
+            <a class="nav-link fs-4" href="/<%- (en == 0) ? 'en/' : '' %>chapter-5" >5.
+              <%if(en == 0){%>
+                Our Mission
+              <% } else {%>
+                我们的使命
+              <% } %>
+            </a>
 
           </li>
         </ul>
@@ -152,16 +190,44 @@ a:hover {
     <div class="container">
       <div class="row g-4 g-lg-5 mb-10">
         <div class="col-md-3 text-center text-md-start">
-          <a href="/index.html" class="navbar-brand">
+          <a href="/<%- (en == 0) ? 'en/' : '' %>index.html" class="navbar-brand">
     <span style="color:#dc7257;font-size:39px;font-weight:600">A</span>
             PLAN</a>  </div>
         <div class="col-md-4 col-lg-5 text-center text-md-start">
           <ul class="list-unstyled">
-            <li class="mb-1"><a href="/chapter-1" class="text-reset text-primary-hover">前言</a></li>
-            <li class="mb-1"><a href="/chapter-2" class="text-reset text-primary-hover">精英持股计划</a></li>
-            <li class="mb-1"><a href="/chapter-3" class="text-reset text-primary-hover">全新公司架构</a></li>
-            <li class="mb-1"><a href="/chapter-4" class="text-reset text-primary-hover">重写游戏规则</a></li>
-            <li><a href="/chapter-5" class="text-reset text-primary-hover">我们的使命</a></li>
+            <li class="mb-1"><a href="/<%- (en == 0) ? 'en/' : '' %>chapter-1" class="text-reset text-primary-hover"><%if(en == 0){%>
+              Foreword
+            <% } else {%>
+              前言
+            <% } %></a></li>
+            <li class="mb-1"><a href="/<%- (en == 0) ? 'en/' : '' %>chapter-2" class="text-reset text-primary-hover">
+              <%if(en == 0){%>
+                Talent Shareholding Plan
+              <% } else {%>
+                精英持股计划
+              <% } %>
+            </a></li>
+            <li class="mb-1"><a href="/<%- (en == 0) ? 'en/' : '' %>chapter-3" class="text-reset text-primary-hover">
+              <%if(en == 0){%>
+                A Brand New Company Structure
+              <% } else {%>
+                全新公司架构
+              <% } %>
+            </a></li>
+            <li class="mb-1"><a href="/<%- (en == 0) ? 'en/' : '' %>chapter-4" class="text-reset text-primary-hover">
+              <%if(en == 0){%>
+                Changing the Rules
+              <% } else {%>
+                重写游戏规则
+              <% } %>
+            </a></li>
+            <li><a href="/<%- (en == 0) ? 'en/' : '' %>chapter-5" class="text-reset text-primary-hover">
+              <%if(en == 0){%>
+                Our Mission
+              <% } else {%>
+                我们的使命
+              <% } %>
+            </a></li>
           </ul>
         </div>
         <div class="col-md-5 col-lg-4">

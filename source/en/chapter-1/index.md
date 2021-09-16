@@ -1,6 +1,6 @@
 ---
 title: Make talents benefit the most from the trillion dollar market cap
-subtitle: Part One, Forewword
+subtitle: Chapter One, Foreword
 date: 2021-08-27 21:40:03
 cover: /assets/images/coworking-3.jpg
 chapter: 0
@@ -8,14 +8,14 @@ layout: plan
 en: true
 ---
 
-APlan, abbreviation for Aomoxo Plan("爱梦想方案" in chinese), is the company Aomoxo's "Trillion Dollar Market Cap Plan". And Aomoxo is a new IT startup that, using Aomoxo Plan as its blueprint, will consist of tens of thousands of stock-holding talents, and aimes for a market value of one trillion dollars.
+APlan, abbreviation for Aomoxo Plan("爱梦想方案" in chinese), is the company Aomoxo's "Trillion Dollar Market Cap Plan". And Aomoxo is a new IT startup that, using Aomoxo Plan as its blueprint, will consist of tens of thousands of stock-holding talents, and aimes for a market value of $1 trillion.
 
 ### Apple, Microsoft, Amazon, Google's trillion-dollar market value triggers thinking and inspires imagination
 
 
-Dear talent friends, have you ever thought about what it would be like to own one thousandth, or one ten thousandth, or one hundred thousandth of shares belonged to any one of the above mentioned companies? Which, as you'd well know, are all trillion dollar IT companies, with the highest market value even exceeding 2 trillion dollars.
+Dear talent friends, have you ever thought about what it would be like to own one thousandth, or one ten thousandth, or one hundred thousandth of shares belonged to any one of the above mentioned companies? Which, as you'd well know, are all trillion dollar internet companies, with the highest market value even exceeding $2 trillion dollar.
 
-Let us take a one trillion dollar company for example:
+Let us take a $1 trillion company for example:
 
 {% ul 'One-thousandth of its shares is worth $1 billion.' 'One-ten-thousandth of its shares is worth $100 millions.' 'One-hundred-thousandth of its share is worth $10 millions.' %}
 
@@ -43,7 +43,7 @@ As for how the 90% of shares will be distributed among 37,200 talents and how we
 
 What we need to continue to emphasize here, is that the true value of the Aomoxo Plan lies in the creation of a new mechanism that uses shares as incentive for talents to achieve the $1 trillion market cap goal, linking closely together Aomoxo's trillion dollar market cap, and the personal billionaire@# dreams of our talents, turning the company's goals into the goals of tens of thousands of talented individuals. When the talents start to fight for their own dreams of billions of wealth, they'd also be most certainly working hard to create the trillion dollar market value for the company. In other words, the day when Aomoxo reaches $1 trillion  in market capitalization, it will also certainly be the day that all 37,200 talents become famous and rich.
 
-Although the great successes of Apple, Microsoft, Amazon, and Google, are very worthy of excitement and pride from our peers in the IT field, but it's such a pity that the talents who created the trillion dollar market value miracle, aren't able to share the wealth of the trillion dollar market value.
+Although the great successes of Apple, Microsoft, Amazon, and Google, are very worthy of excitement and pride from our peers in the IT field, but it's such a pity that the talents who have created the trillion dollar market value miracle, aren't able to share the wealth of the trillion dollar market value.
 
 {% ul 'This is morally unfair. Such a trillion dollar market value is far from wonderful. ' "The passion and creativity of talents have not yet been fully tapped, and there's still a lot of room for incentives." %}
 
