@@ -8,28 +8,27 @@ layout: plan
 en: true
 ---
 
-***Aomoxo will be built entirely on the internet, there won't be any office building, any physical office space. All Aomoxian will no longer have to rush to work every day like employees of other companies, but can work online from anywhere in the world.***
+***Aomoxo will be built entirely on the internet. No office buildings, no office space, nor any kinds of physical facilities and equipments. All Aomoxian will no longer have to rush to work every day like employees of other companies, but can work online from anywhere in the world.***
 
+### Aomoxo's offices are all over the world, but aren't made of bricks and tiles.
 
-### Aomoxo's offices are everywhere all over the world, and they aren't made of bricks and tiles.
-
-Except for the symbolic registered address, no building on this planet we live in could represent Aomoxo. Aomoxo does not even have one office that belongs to the company, nor any kinds of office equipment. There are no highly integrated cubicles for employees, no grand lobbies for receiving guests, no exquisite service facilities, no luxurious and expensive resting areas, no cafes or kitchens or free lunches ....
+Except for the symbolic registered address, no building on this planet we live in could represent Aomoxo. Aomoxo doesn't even have one office belonging to the company, nor any kind of office equipment. There are no highly integrated cubicles for employees, no grand lobbies for receiving guests, no exquisite service facilities, no luxurious and expensive resting areas, no cafes or kitchens or free lunches ....
 
 Aomoxo's "headquarter" is a globalized building constructed with the most "cutting edge" materials and the most advanced technology in modern society. Anywhere the internet can reach, you'd be able to enter the company's gate with lightning speed.
 
 ### It had never been so easy for talents worldwide to join Aomoxo.
 
-Whether you are from mainland China, or across the sea in Silicon Valley of the United States, whether you're a citizen of South Korea, Japan, India, or any of the 28 countries of the European Union, to become a member of Aomoxo, you don’t have to leave your home for even half a step, you don’t have to leave your own familiar space and your loved ones.
+Whether you are from mainland China, or across the sea in Silicon Valley of the United States, whether you're a citizen of South Korea, Japan, India, or any of the 28 countries of the European Union, to become a member of Aomoxo, you don’t have to leave your home for even half a step, don’t have to leave your own familiar space and your loved ones.
 
 Can our plan of recruiting globally be achieved via the internet? One hazy idea we've had many years ago is becoming a reality today.
 
-We've living in the age of internet nowadays, and we have all the conditions we need to share global human resources via the internet. Aomoxo wants to be the first company to do that. So as long as they have access to the web and met Aomoxo's talent criteria, anyone can become a member of the Aomoxo team. Together we will start projects, do business in all kinds of field, pursue the dream of trillion dollar market cap, become billionaires@#, and as a result, change the world.
+We're living in the age of internet nowadays, and have got all the conditions we need to share global human resources via the internet. Aomoxo wants to be the first company to do that. So as long as they have access to the web and met Aomoxo's talent criteria, anyone can become a member of the Aomoxo team. Together we will start projects, do business in all kinds of field, pursue the dream of trillion dollar market cap, become "billionaires", and in the process, change the world.
 
 {% twopics https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan3-figure-1.jpg https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan3-figure-2.jpg %}
 
 ### This is part of our globalization strategy.
 
-With our talents all over the world, Aomoxo not only can do business in China, the world's largest market, but also  can rapidly expand into markets of other developing countries such as India and Vietnam, and also the developed countries such as Japan, the United States, Europe and other developed countries. We will realize globalization at the fastest speed, and at the lowest cost.
+With our talents coming from all over the world, Aomoxo not only can do business in China, the world's largest market, but can also rapidly expand into markets of other developing countries such as India and Vietnam, and also the developed countries such as Japan, the United States, Europe and others. We will realize globalization at the fastest speed, and at the lowest cost.
 
 
 {% myalert 'alert-danger' 'Aomoxo is a idealistic compnay, no matter what others think or do, we will spare no effort to pursue what we think is ideal.' %}
@@ -38,7 +37,7 @@ With our talents all over the world, Aomoxo not only can do business in China, t
 ### Join Aomoxo and you will be free to choose any place you like in the world to work and live in.
 
 
-Joining Aomoxo means that you no longer need to get up early, and rush to catch the morning subway with sleepy eyes. It means that no matter how late you're working, you don’t have to worry about the dangers on your way home at night. It means you don’t have to buy your own house somewhere close to the company. In fact, it doesn't matter which city or country you live in, as long as there's the internet, it will be equally convenient and fast anywhere.
+Joining Aomoxo means that you no longer need to get up early, and rush to catch the morning subway with sleepy eyes. It means that no matter how late you're working, you don’t have to worry about the dangers on your way home at night. It means you don't have to choose somewhere close to the company to buy your own house. In fact, it doesn't matter which city or country you live in, as long as you're connected to the web, it will be equally convenient and fast anywhere.
 
 But the most important thing is, from the day you join Aomoxo:
 
@@ -52,14 +51,14 @@ Your life is so romantic now. You can live in any place, any city, any country y
 ### Shedding off the heavy shell of convention, Aomoxo will soar lighter, higher and farther.
 
 
-##### Aomoxo is weightless and very extensible.
+##### Aomoxo is weightless and highly scalable.
 
-Aomoxo's office buildings are so light it's actually up in the cloud. Whenever a new member joins in, we do not need to prepare work place for them and make purchases of equipment and office supply, and they can just start working immediately. So you see? Very extensiblle.
+Aomoxo's office buildings are so light it's actually up in the cloud. Whenever new members join in, they can just start working immediately, without needing to prepare work spaces for them and make purchases of equipment and office supply beforehand. So you see? High scalability.
 
-##### Easy to manage and highly efficienct.
+##### Easy to manage and very efficienct.
 
-Aomoxo does not have work places to manage, and is also saved from all these trivias related to it. We will leave our members to do their own managings, so we can put precious energies on products, ideas, markets, customers, etc. things that are really important.
+Aomoxo doesn't have offices to manage, and is also saved from all the trivias related to it. We will leave our members to do their own managings, so we can put precious energies on products, ideas, markets, customers, etc. things that are really important.
 
 ##### Low consumption, and zero cost.
 
-There is no need to spend huge amounts of money on purchases or expensive maintenance works, which is vitally important for a startup company with big dreams.
+There is no need to spend huge amounts of money on purchases or expensive maintenance works, which is vitally important for a startup company with a big dream.
