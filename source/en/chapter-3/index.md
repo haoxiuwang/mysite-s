@@ -1,5 +1,5 @@
 ---
-title: "Running solely on the web, it couldn't have been easier for talents worldwide to join Aomoxo."
+title: "Running solely on the internet, it couldn't have been easier for talents worldwide to join Aomoxo."
 subtitle: Chapter Three, A Brand New Company Structure
 date: 2021-08-27 21:40:23
 cover: /assets/images/startup-2.jpg
@@ -8,7 +8,7 @@ layout: plan
 en: true
 ---
 
-***Aomoxo will be built entirely on the internet. No office buildings, no office space, nor any kinds of physical facilities and equipments. All Aomoxian will no longer have to rush to work every day like employees of other companies, but can work online from anywhere in the world.***
+***Aomoxo will be built entirely on the internet. No office buildings, no office space, nor any kind of physical facility and equipment. All Aomoxian will no longer have to rush to work every day like employees of other companies, but can work online from anywhere in the world.***
 
 ### Aomoxo's offices are all over the world, but aren't made of bricks and tiles.
 

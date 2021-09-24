@@ -104,5 +104,5 @@ theme: cube
 deploy:
   type: git
   branch: master
-  repo: https://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@github.com/haoxiuwang/mysite.git
+  repo: https://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@github.com/haoxiuwang/mysite.git
   # https://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@github.com/haoxiuwang/mysite.git
