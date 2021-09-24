@@ -8,12 +8,12 @@ layout: plan
 en: true
 ---
 
-APlan, abbreviation for Aomoxo Plan, is Aomoxo's "Trillion Dollar Market Cap Plan". And Aomoxo is a internet startup that, using Aomoxo Plan as its blueprint, will consist of tens of thousands of stockholding talents, and aimes for a market cap of $1 trillion.
+APlan, abbreviation for Aomoxo Plan, is Aomoxo's "Trillion Dollar Market Cap Plan". And Aomoxo is an IT startup that, using Aomoxo Plan as its blueprint, will consist of tens of thousands of stockholding talents, and aimes for a market cap of $1 trillion.
 
 ### Apple, Microsoft, Amazon, Google's trillion dollar market cap triggers thinking and inspires imagination
 
 
-Dear talent friends, have you ever thought about what it would be like to own 1/1000, or 1/10000, or 1/100000 of the stock belonged to any one of the above mentioned companies? Which, as you'd well know, are all trillion dollar internet companies, with the highest market value even exceeding $2 trillion dollar.
+Dear talent friends, have you ever thought about what it would be like to own 1/1000, or 1/10000, or 1/100000 of the stock belonged to any one of the above mentioned companies? Which, as you'd well know, are all trillion dollar IT companies, with the highest market value even exceeding $2 trillion dollar.
 
 Let us take a $1 trillion company for example:
 

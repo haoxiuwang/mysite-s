@@ -27,7 +27,9 @@ en: false
 
 作为一家初来乍到的创业公司，爱梦想将会积极参与全球互联网IT领域的方方面面，与实力强大的友商展开良性竞争，一起努力提升人类的幸福感。
 
-爱梦想将在全球互联网IT舞台上扮演主角，与谷歌比技术，与亚马逊争市场，与facebook赛创意，让世界各地各种文化背景的消费者都可以享受另一个wonderful公司提供的another choice。爱梦想将会与facebook公司为邻，推出可以与facebook、whatsapp相媲美，能够广为人们喜爱的新型社交软件，让人们从使用不同的产品中体验到不同的喜悦；爱梦想也将会与亚马逊比肩，打造可以与亚马逊电商一争高低的网上购物环境，让购物者在互联网上也同样可以实现多样化的选择，能够刚走出一家商场的大门，立刻就可以踏入另一家一样wonderful的购物中心。
+例如，爱梦想将会与facebook公司为邻，推出可以与facebook、whatsapp相媲美，能够广为人们喜爱的新型社交软件，让人们从使用不同的产品中体验到不同的喜悦；爱梦想也将会与亚马逊比肩，打造可以与亚马逊电商一争高低的网上购物环境，让购物者在互联网上也同样可以实现多样化的选择，能够刚走出一家商场的大门，立刻就可以踏入另一家一样wonderful的购物中心。
+
+由于我们的加入，世界各地各种文化背景的消费者将都可以享受另一个wonderful公司提供的another choice。
 
 {% twopics https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan5-figure-1.jpg https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan5-figure-2.jpg %}
 

@@ -18,7 +18,7 @@ Creating Aomoxo is our boldest attempt and exploration so far in changing the wo
 
 ### First, like Google committed to artificial intelligence, and SpaceX committed to human migration to Mars, Aomoxo aimes to join them as one of the bravest pioneers in uncharted territories.
 
-The world’s most outstanding pioneers have already set fabulous examples for us, showing us that it is possible to turn rockets into reusable space buses going to and fro from earth to space, and realize the dream of human migration to Mars in a commercial way; Showing us that with enough computers working together, you can achieve things like simulating human intelligence, facial recognition, and autonomous driving.
+The world’s most outstanding pioneers have already set fabulous examples for us, showing us that it is possible to turn rockets into reusable space buses going from earth to space, and realize the dream of human migration to Mars in a commercial way; Showing us that with enough computers working together, you can achieve things like simulating human intelligence, facial recognition, and autonomous driving.
 
 There also won't be any shortage of brave, pioneer spirits in Aomoxo, we've got so many ideas just waiting to be realized. More importantly, Aomoxo will have tens of thousands talents refusing to be mediocre and brave enough to give up a comfortable life. This allows us not only to have confidence, but also the ability to play the role of pioneers and do the impossibles.
 
@@ -26,10 +26,9 @@ There also won't be any shortage of brave, pioneer spirits in Aomoxo, we've got 
 
 As an internet startup, Aomoxo will be doing all kinds of innovations in the global internet industry, starting healthy and friendly competitions with powerful adversaries, and together committed to improving the wellbeings of all humankind.
 
-Aomoxo aimes to play the leading role in the industry, competing with Google for technology, competing with Amazon for market share, and competing with Facebook for creativity, so that consumers of all cultural backgrounds can enjoy another wonderful choice provided by Aomoxo.
+For example, we will compete with Facebook for creativity, with a lovable social network app that will rival Facebook and Instagram, allowing people to experience different joys from using different products; also compete with Amazon for market share, launching our own unique e-commerce platform, so that shoppers would have multiple choices in shopping online as they do offline, like walking out of a shopping mall, then immediately stepping into another that's equally wonderful.
 
-Aomoxo aimes to play the leading role in the industry, competing with Facebook for creativity: produce a lovable social network app that will rival Facebook and Instagram, allowing people to experience different joys from using different products; And also competing with Amazon for market share: launch an unique e-commerce platform, so that shoppers would have multiple choices in shopping online as they do offline, like walking out of a shopping mall, then immediately stepping into another that's equally wonderful. Consumers of all cultural backgrounds can enjoy another wonderful choice provided by Aomoxo.
-
+With us joining in, the consumers of all cultural backgrounds will enjoy another wonderful choice.
 
 {% twopics https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan5-figure-1.jpg https://cdn.jsdelivr.net/gh/wangfei20/wangfei20.github.io@latest/assets/images/plan/plan5-figure-2.jpg %}
 
