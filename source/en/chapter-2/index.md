@@ -16,7 +16,7 @@ en: true
 
 We'll first take 20% of the stock to motivate the top 200 team members who joins Aomoxo before everyone else, each owning 1/1,000 of the company's stock. So at $1 trillion market cap, with $1 billion worth of stock per member, these 200 senior members will all be 100% billionaires.
 
-The 200 "Billionaire Class Members" (including ten founders) have the highest shareholdings, and the highest net worths at the trillion dollar market cap, and also bear the most important responsibilities. They will take the lead in starting and directing Aomoxo's thousands of incredible innovative projects, and together be the guiding force of this world-changing entrepreneurial process.
+The 200 "Billionaire Class Members" (including ten founders) have the highest shareholdings, and the highest net worth at the trillion dollar market cap, and also bear the most important responsibilities. They will take the lead in starting and directing Aomoxo's thousands of incredible innovative projects, and together be the guiding force of this world-changing entrepreneurial process.
 
 
 {% mytitle '20% of the stock' 'motivating 2000 "1/10 Billionaire Class Members", each net worth will be up to $100 millions under $1 trillion market cap.' %}
